@@ -33,7 +33,7 @@ This README file contains all the info to install dependencies and run de applic
 
 ## RUN SERVER
 
-Run the react server with the following command on the terminal:
+Run the React js server with the following command on the terminal:
 
 * npm start
 
