@@ -2,7 +2,7 @@
 
 This README file contains all the info to install dependencies and run de application
 
-# VERSIONS
+# DEPENDENCIES
 
  * react: ^17.0.2,
  * @material-ui/core: ^4.11.3,
