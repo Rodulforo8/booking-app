@@ -37,3 +37,6 @@ Run the React js server with the following command on the terminal:
 
 * npm start
 
+## DEVELOPER COMMENT
+
+* Cors problem might occurs if using chrome it is recomended to install the Moesif CORS extension
