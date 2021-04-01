@@ -40,3 +40,4 @@ Run the React js server with the following command on the terminal:
 ## DEVELOPER COMMENT
 
 * Cors problem might occurs if using chrome it is recomended to install the Moesif CORS extension
+* For some reason https://dev.tuten.cl/TutenREST/rest/user/contacto%40tuten.cl/bookings?current=true only returns 2 records on the frontend but in postman returns 5 records
